@@ -1,0 +1,26 @@
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\Bin\Debug\ApplicationIcon.png
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\Bin\Debug\Background.png
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\Bin\Debug\ArtificialIntelligenceRef.dll
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\Bin\Debug\ArtificialIntelligenceRef.pdb
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\Bin\Debug\AppManifest.xaml
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\Bin\Debug\ArtificialIntelligence.xap
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\obj\Debug\App.g.i.cs
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\obj\Debug\imageload.g.i.cs
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\obj\Debug\MainPage.g.i.cs
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\obj\Debug\ArtificialIntelligenceRef.g.resources
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\obj\Debug\ArtificialIntelligenceRef.dll
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\obj\Debug\ArtificialIntelligenceRef.pdb
+C:\Users\Vikramaditya\Desktop\AIRef\AnatomyRef\AnatomyRef\obj\Debug\XapCacheFile.xml
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\ApplicationIcon.png
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\Background.png
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\ArtificialIntelligenceRef.dll
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\ArtificialIntelligenceRef.pdb
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\AppManifest.xaml
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\ArtificialIntelligence.xap
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\App.g.i.cs
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\imageload.g.i.cs
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\MainPage.g.i.cs
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\ArtificialIntelligenceRef.g.resources
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\ArtificialIntelligenceRef.dll
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\ArtificialIntelligenceRef.pdb
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\XapCacheFile.xml

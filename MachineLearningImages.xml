@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<anatomy>
+  <topic>
+    <id>1</id>
+    <title>Machine Learning Introduction</title>
+    <imgcount>6</imgcount>
+       <imgurl1>images/MLIntro1.png</imgurl1>
+       <imgurl2>images/MLIntro2.png</imgurl2>
+       <imgurl3>images/MLIntro3.png</imgurl3>
+       <imgurl4>images/MLIntro4.png</imgurl4>
+       <imgurl5>images/MLIntro5.png</imgurl5>
+       <imgurl6>images/MLIntro6.png</imgurl6>
+  </topic>
+  <topic>
+    <id>2</id>
+    <title>Machine Learning Techniques</title>
+    <imgcount>12</imgcount>
+      <imgurl1>images/MLTech0.png</imgurl1>
+      <imgurl2>images/MLTech1.png</imgurl2>
+      <imgurl3>images/MLTech2.png</imgurl3>
+      <imgurl4>images/MLTech3.png</imgurl4>
+      <imgurl5>images/MLTech4.png</imgurl5>
+      <imgurl6>images/MLTech5.png</imgurl6>
+      <imgurl7>images/MLTech6.png</imgurl7>
+      <imgurl8>images/MLTech7.png</imgurl8>
+      <imgurl9>images/MLTech8.png</imgurl9>
+      <imgurl10>images/MLTech9.png</imgurl10>
+      <imgurl11>images/MLTech10.png</imgurl11>
+      <imgurl12>images/MLTech11.png</imgurl12>
+  </topic>
+  <topic>
+    <id>3</id>
+    <title>Machine Learning Terminology</title>
+    <imgcount>10</imgcount>
+      <imgurl1>images/MLTerminology2.png</imgurl1>
+      <imgurl2>images/MLTerminology3.png</imgurl2>
+      <imgurl3>images/MLTerminology4.png</imgurl3>
+      <imgurl4>images/MLTerminology5.png</imgurl4>
+      <imgurl5>images/MLTerminology6.png</imgurl5>
+      <imgurl6>images/MLTerminology7.png</imgurl6>
+      <imgurl7>images/MLTerminology8.png</imgurl7>
+      <imgurl8>images/MLTerminology9.png</imgurl8>
+      <imgurl9>images/MLTerminology10.png</imgurl9>
+      <imgurl10>images/MLTerminology11.png</imgurl10>
+  </topic>
+  <topic>
+    <id>4</id>
+    <title>About Us</title>
+    <imgcount>1</imgcount>
+      <imgurl1>images/aboutus.png</imgurl1>
+   </topic>
+  </anatomy>

@@ -1,0 +1,13 @@
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\ApplicationIcon.png
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\Background.png
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\AppManifest.xaml
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\App.g.i.cs
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\imageload.g.i.cs
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\MainPage.g.i.cs
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\XapCacheFile.xml
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\MachineLearningRef.dll
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\MachineLearningRef.pdb
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\Bin\Debug\MachineLearning.xap
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\MachineLearningRef.g.resources
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\MachineLearningRef.dll
+C:\Users\Vikramaditya\Desktop\ML Reference\AnatomyRef\AnatomyRef\obj\Debug\MachineLearningRef.pdb
